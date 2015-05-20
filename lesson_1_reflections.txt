@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	I thought that it was very useful to compare the two versions using diff
+	It make things a lot faster and much clearer. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Having easy access to the entire history of a file could make me a more efficient programmer in terms of fixing mistakes
+	and adjusting different schemes of the same projects to come pare different effects in order to decide what works best.
+	Most importantly, it will save a ton of time and help make collaborations super facile.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+	The up-side is that you don't ahve an overwhelming amount of versions to have to dig through in order to run a diff command, but on the flip-side you could lose valuable work if you forget to commit at a reasonable point. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Systems like Git understand that working across multiple files is necessary for a lot of project; most projects that are related to progamming usually require a set of files to be linked, thus making the saving of the entire repository a useful function.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	The git log and git diff commands present a seamless way to get fast results when comparing the different files within your history. 
+
+How might using version control make you more confident to make changes that could break something?
+	
+	Using version control makes me confident to make chagnes that could break something, because it allows me to revert and go back to those changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	With my workspace set up, I can cearly and efficiently work within git. I am excited to differenciate my version control files in search for bugs and inacurracies. 
