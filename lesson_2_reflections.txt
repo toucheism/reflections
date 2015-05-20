@@ -18,3 +18,8 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	The diagram helps to put things in perspective to better understand the "detached HEAD" warning. Branches can be non-linear, which will not store commit viewable from other commits, so it is wise to note the branched commit down somewhere.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	Merging two branches together makes it easier to combine changes from two documents with similar origins (great for introducing new features).
+	We represent it such a way in the diagram because it becomes the head/tip of the master branch and carries the previous commits, besides that which is off branched. 
