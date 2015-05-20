@@ -14,3 +14,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	
 	With the introduction of branches ( git branch, git branch <branch-name>) it becomes easier to experiment on any given project without much concern for the master becoming affected. Branches help by categorizing your different approaches to your project, making it cleaner to work with.
+
+How do the diagrams help you visualize the branch structure?
+
+	The diagram helps to put things in perspective to better understand the "detached HEAD" warning. Branches can be non-linear, which will not store commit viewable from other commits, so it is wise to note the branched commit down somewhere.
