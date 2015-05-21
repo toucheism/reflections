@@ -23,3 +23,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	
 	Merging two branches together makes it easier to combine changes from two documents with similar origins (great for introducing new features).
 	We represent it such a way in the diagram because it becomes the head/tip of the master branch and carries the previous commits, besides that which is off branched. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	The pros of Git's automatic merging is that it saves a lot of time and get your separate branches to work well together; but on the flip side it cannot determine every aspect of code that is meant to work together when there are multiple changes made to the same concept/logic within a file. (forgot to add a commit here earlier)
